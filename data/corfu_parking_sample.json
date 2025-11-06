@@ -1,0 +1,26 @@
+[
+  {
+    "street_name": "Nikiforou Theotoki",
+    "available_spots": 12,
+    "total_spots": 20,
+    "coordinates": [39.6245, 19.9224]
+  },
+  {
+    "street_name": "Kapodistriou",
+    "available_spots": 4,
+    "total_spots": 15,
+    "coordinates": [39.6231, 19.9229]
+  },
+  {
+    "street_name": "Evgeniou Voulgareos",
+    "available_spots": 7,
+    "total_spots": 18,
+    "coordinates": [39.6239, 19.9198]
+  },
+  {
+    "street_name": "Donzelot",
+    "available_spots": 2,
+    "total_spots": 10,
+    "coordinates": [39.6252, 19.9236]
+  }
+]
